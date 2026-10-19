@@ -20,7 +20,7 @@ function Contribute({ issues }) {
             Fix an open issue on{" "}
             <a
               className="font-bold underline"
-              href="https://github.com/natashakateleonardo/CSIT342-G5-Midterms-Leonardo"
+              href="https://github.com/natashakateleonardo/CSIT340-G5-Midterms-Leonardo"
               target="_blank"
               onClick={handleContribute}
             >
