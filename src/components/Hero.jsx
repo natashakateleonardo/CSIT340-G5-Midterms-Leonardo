@@ -56,7 +56,7 @@ return (
         </button>
       </div>
 
-    <Stats stars={stars} downloasd={downloads} issues={issues}/>   
+    <Stats stars={stars} downloads={downloads} issues={issues}/>   
 
       </> 
     )
